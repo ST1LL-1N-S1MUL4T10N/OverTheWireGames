@@ -1,1 +1,1 @@
-# OverTheWireGames
+# https://overthewire.org/wargames/
